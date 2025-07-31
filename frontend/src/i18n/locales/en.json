@@ -1,0 +1,24 @@
+{
+  "welcome": "Welcome",
+  "services": "Services",
+  "team": "Our Team",
+  "home": "Home",
+  "design": "Design",
+  "development": "Development",
+  "read_more": "Read More",
+  "email": "Email",
+  "subscribe": "Subscribe",
+  "contacts": "Contacts",
+  "about": "About",
+  "strategy": "Our Strategy",
+  "advantages": "Our Advantages",
+  "responsibility": "Social Responsibility",
+  "subscribed_success": "Successfully subscribed!",
+  "required": "This field is required",
+  "invalid_email": "Invalid email",
+  "something_wrong": "Something went wrong",
+  "all_rights_reserved": "All rights reserved",
+    "book appointment":"Book Appointment"
+
+
+}

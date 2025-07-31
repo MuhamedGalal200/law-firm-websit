@@ -1,0 +1,22 @@
+{
+  "welcome": "أهلاً وسهلاً",
+  "services": "الخدمات",
+  "home": "الرئيسية",
+  "design": "تصميم",
+  "development": "تطوير",
+  "team": "الفريق",
+  "read_more": "قراءة المزيد",
+  "email": "البريد الإلكتروني",
+  "subscribe": "اشترك",
+  "contacts": "اتصل بنا",
+  "about": "عن",
+  "strategy": "استراتيجيتنا",
+  "advantages": "مزايانا",
+  "responsibility": "المسؤولية الاجتماعية",
+  "subscribed_success": "لقد تم الاشتراك بنجاح!",
+  "required": "هذا الحقل مطلوب",
+  "invalid_email": "البريد الإلكتروني غير صالح",
+  "something_wrong": "هناك خطأ ما",
+  "all_rights_reserved": "كل الحقوق محفوظة",
+  "book appointment":"حجز موعد"
+}
